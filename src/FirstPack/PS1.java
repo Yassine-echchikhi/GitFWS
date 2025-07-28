@@ -12,6 +12,8 @@ public class PS1 extends PS {
 		// PS ps = new PS();
 		// ps.doThis(); 
 		
+		System.out.println("Added Line GitFWS");
+		
 		int a = 7;
 		doThis(); // connected to the parent class
 		// Lets create a new object
@@ -20,7 +22,7 @@ public class PS1 extends PS {
 		System.out.println(ps2.decrement());
 		
 		//PS3 ps3 = new PS3(a); this line is skipped with inheretience 
-		System.out.println(ps2.multiplyThree());
+		System.out.println(ps2.multiplyThree()+"Added Line GitFWS ");
 		//System.out.println(ps3.multiplyTwo());
 		
 	}
