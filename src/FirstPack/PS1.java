@@ -13,6 +13,10 @@ public class PS1 extends PS {
 		// ps.doThis(); 
 		
 		System.out.println("Added Line GitFWS");
+		// Test
+		System.out.println("Added Line 2");
+		System.out.println("Added Line 3");
+		System.out.println("Added Line 4");
 		
 		int a = 7;
 		doThis(); // connected to the parent class
